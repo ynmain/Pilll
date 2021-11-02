@@ -23,7 +23,6 @@ class PillSheetModifiedHisotiryListHeader extends StatelessWidget {
             child: Row(
               children: [
                 Container(
-                  width: 55,
                   child: Text(
                     "服用時間",
                     style: TextStyle(
